@@ -205,9 +205,9 @@ if (! empty($_POST)) {
 				<div class="right">
 					<div class="overlay"></div>
 					<div class="content text">
-						<div class="lead"><h1>Anonymous Voting for a Decentralised Web</h1></div>
+						<div class="lead"><h1>Anonymous Login for a Decentralised Web</h1></div>
 						<br/>
-						<p class="lead">A Hardware Key and Secure Email address are required to vote</p>
+						<p class="lead">A Hardware Key and Secure Email address are required</p>
 						<br/>
 						<p class="lead">Purchase a Secure Opensource Hardware Key<a href="https://solokeys.com" target="_blank"> Here</a></p>
 						<br/>
